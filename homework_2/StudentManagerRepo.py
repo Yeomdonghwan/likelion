@@ -27,7 +27,4 @@ class StudentManagerRepo:
     def update_student(self, name, student): # 학생 수정
         pass
 
-    @abstractmethod
-    def list_student_by_gpa(self): #학점 순으로 정렬된 전체 학생 조회
-        pass
     
