@@ -18,3 +18,5 @@
 3. StudentManagerService는 유효성 검사 등의 비즈니스 로직을 처리하며, StudentManagerImpl 객체를 통해 데이터베이스(리스트) 작업을 요청합니다
 4. StudentManagerImpl는 데이터베이스(리스트)에 접근하여 학생 정보를 추가,조회,수정,삭제 등 데이터를 처리합니다.
 
+---
+[리뷰](https://github.com/Yeomdonghwan/likelion/blob/master/homework_2/review.md)
