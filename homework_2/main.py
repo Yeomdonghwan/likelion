@@ -44,8 +44,10 @@ while(1):
     elif(select==6): #학점순 정렬 조회
         manager.list_student_by_gpa()
         
-    else: #종료
+    elif(select==7): #종료
         break
+    else:
+        print("잘못된 입력입니다.")
         
     
     
